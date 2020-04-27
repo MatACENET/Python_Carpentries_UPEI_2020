@@ -206,7 +206,7 @@ Everyone who participates in Carpentries activities is required to conform to th
 
 
 
-Collaborative Notes
+<h2>Collaborative Notes</h2>
 
 If you want to use an Etherpad, 
 <a href="https://pad.carpentries.org/Computing_Bootcamp_(1)_-_April_27th_-_May_6th"> go here</a>
