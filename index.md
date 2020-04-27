@@ -208,8 +208,8 @@ Everyone who participates in Carpentries activities is required to conform to th
 
 Collaborative Notes
 
-If you want to use an Etherpad, go to
-https://pad.carpentries.org/Computing_Bootcamp_(1)_-_April_27th_-_May_6th
+If you want to use an Etherpad, 
+<a href="https://pad.carpentries.org/Computing_Bootcamp_(1)_-_April_27th_-_May_6th"> go here</a>
 
 where 'YYYY-MM-DD-site' is the identifier for your workshop,
 e.g., '2015-06-10-esu'.
